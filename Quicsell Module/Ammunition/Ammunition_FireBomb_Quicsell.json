@@ -23,6 +23,7 @@
     "AOEDamage": 10,
     "AOEHeatDamage": 20,
     "AOEInstability": 1,
+    "AoEDmgFalloffType": "Linear",
     "AlwaysIndirectVisuals": true,
     "AMSImmune": true,
     "ClearMineFieldRadius": 4,
