@@ -34,7 +34,7 @@
         "AOEDamage": 30,
         "AOEHeatDamage": 0,
         "AOEInstability": 40,
-        "AoEDmgFalloffType": "Linear",
+        "AoEDmgFalloffType": "SquareRoot",
         "RangeColor": {
             "C": "#00FF00",
             "I": 1.5
